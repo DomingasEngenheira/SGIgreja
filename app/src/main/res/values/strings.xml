@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">teste</string>
+
+    <string name="atividade">NOSSAS ACTIVIDADES</string>
+    <string name="boas">Bem Vindo ao Sistema de Gestão de Igreja</string>
+    <string name="boas1">CADSTRAR_SE COMO MEMBRO??</string>
+    <string name="title_activity_cadastro2">Cadastro2</string>
+    <string name="texto">Cadastro2</string>
+    <string name="cadastro">CADASTRO</string>
+    <string name="title_activity_cadastro_geral">CadastroGeral</string>
+    <string name="app_name4">SGIgreja</string>
+    <string name="estudo">Temos estudo biblico, aos domingos, apartir das 7:30 na escola biblica dominical. Saiba mais... </string>
+    <string name="atividade2">NOSSAS ACTIVIDADES</string>
+    <string name="boas12">Bem Vindo ao Sistema de Gestão de Igreja</string>
+    <string name="boas11">CADSTRAR_SE COMO MEMBRO??</string>
+    <string name="title_activity_cadastro22">Cadastro2</string>
+    <string name="texto1">Cadastro2</string>
+    <string name="cadastro1">CADASTRO</string>
+    <string name="title_activity_principal">principal</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="estudo1">Temos estudo biblico, aos domingos, apartir das 7:30 na escola
+        biblica dominical. Saiba mais... </string>
+    <string name="estudo2">Temos estudo biblico, aos domingos,
+        apartir das 7:30 na escola biblica dominical. Saiba mais...
+    Temos estudo biblico, aos domingos, apartir das 7:30 na escola biblica dominical. Saiba mais...
+    </string>
+
+    <string name="action_settings">Settings</string>
+
+
+</resources>
